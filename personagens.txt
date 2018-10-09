@@ -2,3 +2,5 @@ nagini
 credence
 newt 
 grindewald
+queenie
+tina
